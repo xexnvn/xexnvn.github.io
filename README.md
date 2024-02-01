@@ -9,7 +9,7 @@
 
 ### Key Paper
 
-#### Titel
+#### Title
 **Artificial intelligence-driven scalability and its impact on the sustainability and valuation of traditional firms** 
 
 #### Authors

@@ -38,3 +38,5 @@ The findings highlight the positive and negative consequences of AI integration 
 The discussion section delves into the nuances of the results, providing a nuanced interpretation of the implications for traditional firms.
 #### References
 Moro-Visconti, R., Cruz Rambaud, S., & López Pascual, J. (2023). Artificial intelligence-driven scalability and its impact on the sustainability and valuation of traditional firms. Humanities and Social Sciences Communications, 10(1), 795. https://doi.org/10.1057/s41599-023-02214-8
+
+

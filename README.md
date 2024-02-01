@@ -1,16 +1,16 @@
 # THU GMBA
 ## Current Position
-* 2023/09 - Present, Global Master of Business Administration, Thughai University, Taichung, Taiwan.
+* 2023/09 - Present, Global Master of Business Administration, [Thughai University](https://www.thu.edu.tw), Taichung, Taiwan.
 
 ## Education
-* Department of Finance,  Thughai University, Taichung, Taiwan.
+* Department of Finance, [Thughai University](https://www.thu.edu.tw), Taichung, Taiwan.
 
 ## Master Thesis
 
 ### Key Paper
 
 #### Titel
-Artificial intelligence-driven scalability and its impact on the sustainability and valuation of traditional firms
+**Artificial intelligence-driven scalability and its impact on the sustainability and valuation of traditional firms** 
 
 #### Authors
 Roberto Moro-Visconti, Salvador Cruz Rambaud & Joaquín López Pascual

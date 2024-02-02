@@ -1,9 +1,9 @@
 # THU GMBA
 ## Current Position
-* 2023/09 - Present, Global Master of Business Administration, [Thughai University](https://www.thu.edu.tw), Taichung, Taiwan.
+* 2023/09 - Present, Global Master of Business Administration, [Tunghai University](https://www.thu.edu.tw), Taichung, Taiwan.
 
 ## Education
-* Department of Finance, [Thughai University](https://www.thu.edu.tw), Taichung, Taiwan.
+* Department of Finance, [Tunghai University](https://www.thu.edu.tw), Taichung, Taiwan.
 
 ## Master Thesis
 

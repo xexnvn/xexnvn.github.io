@@ -1,4 +1,5 @@
-# THU GMBA
+# Eva's Profile 
+
 ## Current Position
 * 2023/09 - Present, Global Master of Business Administration, [Tunghai University](https://www.thu.edu.tw), Taichung, Taiwan.
 

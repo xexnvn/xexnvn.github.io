@@ -7,4 +7,4 @@
 * Department of Finance, [Tunghai University](https://www.thu.edu.tw), Taichung, Taiwan.
 
 
-[More about me..](https://xexnvn.wordpress.com/)
+[More about me.](https://xexnvn.wordpress.com/)
